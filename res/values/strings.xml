@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WifiRiffic-Scanner</string>
+
+    <string name="wifi_disabled">WiFi is disabled.</string>
+    <string name="wifi_disabling">WiFi is disabling.</string>
+    <string name="wifi_enabling">WiFi is enabling.</string>
+    <string name="wifi_enabled">WiFi is enabled.</string>
+    <string name="wifi_unknown_state">WiFi is in unknown state.</string>
+
+</resources>
